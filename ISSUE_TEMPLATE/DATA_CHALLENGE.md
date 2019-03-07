@@ -2,12 +2,12 @@
 
 ## Description
 
-[ Briefly describe yur data challenge ] 
+[ Briefly describe your data challenge ] 
 
 
 ## Datasets or tools needed
 
-[ If you have a sense of the specific data sets or tools you think might be needed, list them here]
+[ If you have a sense of the specific data sets or tools you think might be needed, list them here ]
 
 ## Other information
 
