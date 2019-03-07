@@ -7,5 +7,5 @@
 ## Outreach
 
 - [ ] Can you assist the guild with out reach to this person?
-- [ ] Has this person spoken to an 18F GGuild before?
+- [ ] Has this person spoken to an 18F Guild before?
 - [ ]  Other relevant information the Guild should know before reaching out to this person (add details below)/
