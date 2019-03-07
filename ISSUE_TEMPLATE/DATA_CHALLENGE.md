@@ -4,10 +4,10 @@
 
 [ Briefly describe your data challenge ] 
 
-## Datasets or tools needed
+## Data sets or tools needed
 
 [ If you have a sense of the specific data sets or tools you think might be needed, list them here ]
 
 ## Other information
 
-[ Anything else smeone taking on this challenge should be aware of ] 
+[ Anything else someone taking on this challenge should be aware of ] 
