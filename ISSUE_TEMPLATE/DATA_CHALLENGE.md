@@ -1,9 +1,8 @@
-[ Place the mame of your data challenge in the issue title. Delete this text when finished. ]
+[ Place the name of your data challenge in the issue title. Delete this text when finished. ]
 
 ## Description
 
 [ Briefly describe your data challenge ] 
-
 
 ## Datasets or tools needed
 
